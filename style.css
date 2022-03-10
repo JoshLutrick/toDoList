@@ -11,6 +11,12 @@ body {
     color: #F6F0EE;
     text-align: center;
 }
+.text {
+    font-size: 1.5rem;
+    width: 70%;
+    display: block;
+    margin: 2rem auto;
+}
 .cardgrid {
     margin-top: 2rem;
     display: grid;
