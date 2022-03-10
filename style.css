@@ -12,10 +12,17 @@ body {
     text-align: center;
 }
 .cardgrid {
+    margin-top: 2rem;
     display: grid;
     gap: 1rem;
     grid-template: repeat(5, 1fr);
 }
 .cardgrid__desc {
-    background-color: ;
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+    background-color: #F6F0EE;
+    font-size: 3rem;
+    width: 85%;
+    margin: 0 auto;
 }
